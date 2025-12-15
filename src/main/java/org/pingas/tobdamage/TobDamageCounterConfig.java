@@ -1,4 +1,4 @@
-package gg.trevor.tobdamage;
+package org.pingas.tobdamage;
 
 import net.runelite.client.config.Config;
 import net.runelite.client.config.ConfigGroup;
